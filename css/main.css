@@ -23,13 +23,20 @@ a:visited {
     color: #fff;
 }
 
+body {
+    background-color: #e8e7db;
+}
+
 .masthead {
     background:;
     text-align: center;
+    background: transparent url("../images/masthead-bg.png") repeat left center;
 }
 
 .title {
     display: inline-block;
+    background-color: #e8e7db;
+    text-shadow: 3px 3px 0 #d7d6cc;
 }
 
 .logo {
