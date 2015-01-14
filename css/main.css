@@ -62,3 +62,7 @@ body {
 h2 {
     text-align: center;
 }
+
+.reward {
+    padding-bottom: .5em;
+}
