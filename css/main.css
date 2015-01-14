@@ -28,7 +28,6 @@ body {
 }
 
 .masthead {
-    background:;
     text-align: center;
     background: transparent url("../images/masthead-bg.png") repeat left center;
 }
@@ -51,4 +50,14 @@ body {
 
 .list {
     background-color: #87714f;
+    color: white;
+}
+
+.graphics {
+    width: 5em;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
 }
