@@ -68,8 +68,8 @@ h2 {
 }
 
 .frame{
-    margin: 0 auto;
-    width:100%;
     border-image: url(images%25202/frame.svg) 25 25 25 25 stretch;
     border-width: 25px 25px 25px 25px;
+    margin: 0 auto;
+    width:100%;
 }
