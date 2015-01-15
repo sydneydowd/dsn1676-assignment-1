@@ -48,6 +48,10 @@ body {
     border-image: url(images%25202/frame.svg) stretch stretch;
 }
 
+.allcap {
+    text-transform: uppercase;
+}
+
 .list {
     background-color: #87714f;
     color: white;
