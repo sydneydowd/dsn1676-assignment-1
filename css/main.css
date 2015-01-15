@@ -27,6 +27,10 @@ body {
     background-color: #e8e7db;
 }
 
+.img-flex {
+    display: block;
+}
+
 .masthead {
     text-align: center;
     background: transparent url("../images/masthead-bg.png") repeat left center;
@@ -42,10 +46,6 @@ body {
     margin: 0 0 .2em 0 0;
     width: 1.2em;
     vertical-align: middle;
-}
-
-.panel {
-    border-image: url(images%25202/frame.svg) stretch stretch;
 }
 
 .allcap {
@@ -71,9 +71,16 @@ h2 {
     padding-bottom: .5em;
 }
 
-.frame{
-    border-image: url(images%25202/frame.svg) 25 25 25 25 stretch;
+.frame {
+    border-image: url("../images%25202/frame.png") 25 25 25 25 stretch;
     border-width: 25px 25px 25px 25px;
     margin: 0 auto;
     width:100%;
+}
+
+@media only screen and (min-width: 25em) {
+}
+@media only screen and (min-width: 38em) {
+}
+@media only screen and (min-width: 60em) {
 }
