@@ -1,5 +1,5 @@
 html {
-  font: normal 100%/1.5 "Abril Fatface", sans-serif;
+  font: normal 100%/1.5 "font-family: 'Abril Fatface', cursive;", serif;;
 }
 
 @media only screen and (min-width: 60em) {
